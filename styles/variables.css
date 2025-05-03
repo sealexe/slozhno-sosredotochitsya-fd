@@ -1,15 +1,13 @@
-/*
-  Переменные для вашего проекта
-  и их переопределение под различные устройства
-*/
 
 :root {
   --background-color: #000028;
   --font-color: #f1b2ce;
   --title-color: #db00ff;
+  --menu-button-color: #ff0070; 
   --section-heading-color: #ff0070;
   --card-heading-color: #000028;
   --accent-color: #ff0070;
+  --decor-color: #ff0070;
   --menu-hover-color: #ff007066;
   --font-family: 'IBM Plex mono';
   --background-image: url(../images/cover-image-dark.png);
