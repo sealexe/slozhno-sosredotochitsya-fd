@@ -8,7 +8,6 @@
   --accent-color: #ff8dcb;
   --decor-color: #353430;
   --menu-hover-color: #32312d66;
-  --font-family: 'IBM Plex mono';
   --background-image: url(../images/cover-image-light.png);
 }
 
@@ -27,7 +26,6 @@
     --accent-color: #ff8dcb;
     --decor-color: #353430;
     --menu-hover-color: #32312d66;
-    --font-family: 'IBM Plex mono';
     --background-image: url(../images/cover-image-light.png);
   }
 
